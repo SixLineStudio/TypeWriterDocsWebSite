@@ -1,0 +1,23 @@
+.blockes{
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: 1vw;
+
+
+
+}
+.bloac2{
+
+display: block;
+
+    color: teal;
+}
+p{
+    font-size: 1.2em;
+}
